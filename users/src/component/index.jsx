@@ -1,0 +1,10 @@
+export {default as UpdateUser} from './crud/UpdateUser'
+export {default as CreateUser} from './crud/CreateUser'
+export {default as AllUsers} from './crud/AllUsers'
+export {default as ViewUser} from './crud/ViewUser'
+export {default as Signup} from './login&registre/signup'
+export {default as Login} from './login&registre/login'
+export {default as Dashbord} from './Dashbord'
+export {default as Navbar} from './Navbar'
+export {default as Footer} from './Footer'
+
